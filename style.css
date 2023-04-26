@@ -1,0 +1,27 @@
+body {
+    font-family: 'Times New Roman', Helvetica, serif;
+}
+
+.odin-recipes {
+    color: rgb(46, 99, 0);
+    font-size: 50px;
+    text-align: center;
+}
+
+#front-image {
+    text-align: center;
+}
+
+.table {
+    display: table;
+    margin: auto;
+}
+
+.recipe-button {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    background-color: rgb(46, 99, 0);
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
